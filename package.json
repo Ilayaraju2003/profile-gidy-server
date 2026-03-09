@@ -19,6 +19,14 @@
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "nodemon": "^3.1.14",
-    "prisma": "^5.22.0"
-  }
+    "prisma": "^7.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilayaraju2003/profile-gidy-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ilayaraju2003/profile-gidy-server/issues"
+  },
+  "homepage": "https://github.com/Ilayaraju2003/profile-gidy-server#readme"
 }
